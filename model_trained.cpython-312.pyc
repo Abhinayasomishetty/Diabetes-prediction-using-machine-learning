@@ -1,0 +1,10 @@
+Ë
+    ”Šfó   ã                   óx   — d dl Z  edd«      5 Z e j                  e«      Zddd«       d„ Zy# 1 sw Y   d„ ZyxY w)é    Nzdiabetes_model.pklÚrbc                 ó2   — t         j                  | «      d   S )Nr   )ÚmodelÚ predict)Úfeaturess    úHc:\Users\shiva\OneDrive\Attachments\diabetes prediction\model_trained.pyr   r       s   € Ü
+=‰=˜Ó
+" 1Ñ
+%Ð%ó    )ÚpickleÚopenÚ
+model_fileÚloadr   r   © r	   r   ú<module>r      sA   ðÛ 
+ñ 
+Ð
+ Ó%ð $¨ØˆFK‰K˜
+Ó#€E÷$ó&÷ $ó&ús   Ž-­9 
